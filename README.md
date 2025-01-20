@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snsuzie
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Continuous Integration/Continuous Delivery
-- 💞️ I’m looking to collaborate on devops's project
+- 💞️ I’m looking to collaborate on devops's project using gitlab, jenkins, kubernete and docker
 - 📫 How to reach me ingridzang810@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: i like music, singing and dancing
